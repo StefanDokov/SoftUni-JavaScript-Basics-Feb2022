@@ -2,7 +2,7 @@
 
 Problem Solving During My JavaScript Basics Course in SoftUni!
 
-That repository includes the following tasks exercises:
+That repository includes the following exercises:
 
  o First Steps in Coding
 
